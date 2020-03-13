@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39902" started-at="2020-03-12T21:36:12 COT" finished-at="2020-03-12T21:36:52 COT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39902" started-at="2020-03-12T21:36:12 COT" finished-at="2020-03-12T21:36:52 COT">
+      <class name="test.Servicio">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:test.Servicio@5a8e6209]" name="beforeClass" duration-ms="4255" started-at="2020-03-12T21:36:12 COT" finished-at="2020-03-12T21:36:17 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:test.Servicio@5a8e6209]" name="afterTest" is-config="true" duration-ms="1" started-at="2020-03-12T21:36:17 COT" finished-at="2020-03-12T21:36:17 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="servicio()[pri:1, instance:test.Servicio@5a8e6209]" name="servicio" duration-ms="32154" started-at="2020-03-12T21:36:17 COT" finished-at="2020-03-12T21:36:49 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- servicio -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:test.Servicio@5a8e6209]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-03-12T21:36:49 COT" finished-at="2020-03-12T21:36:49 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="capacidades()[pri:2, instance:test.Servicio@5a8e6209]" name="capacidades" duration-ms="1172" started-at="2020-03-12T21:36:49 COT" finished-at="2020-03-12T21:36:50 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- capacidades -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:test.Servicio@5a8e6209]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-03-12T21:36:50 COT" finished-at="2020-03-12T21:36:50 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="comohacemos()[pri:3, instance:test.Servicio@5a8e6209]" name="comohacemos" duration-ms="1119" started-at="2020-03-12T21:36:50 COT" finished-at="2020-03-12T21:36:51 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- comohacemos -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:test.Servicio@5a8e6209]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-03-12T21:36:51 COT" finished-at="2020-03-12T21:36:51 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="portafolio()[pri:4, instance:test.Servicio@5a8e6209]" name="portafolio" duration-ms="1136" started-at="2020-03-12T21:36:51 COT" finished-at="2020-03-12T21:36:52 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- portafolio -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:test.Servicio@5a8e6209]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-03-12T21:36:52 COT" finished-at="2020-03-12T21:36:52 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- test.Servicio -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
